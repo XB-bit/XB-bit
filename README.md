@@ -24,7 +24,7 @@ Currently working on a exciting data analysis case study. :)
   
 
 
-![Xhefri's GitHub stats](https://github-readme-stats.vercel.app/api?username=XB-bit&show_icons=true&theme=prussian)
+![Xhefri's GitHub stats](https://github-readme-stats.vercel.app/api?username=XB-bit&show_icons=true&theme=city_lights)
 
 
 
