@@ -1,5 +1,5 @@
-### Xhefri
-#### Aspiring Data Analyst
+## Xhefri
+### Aspiring Data Analyst
 ![Aspiring Data Analyst](https://media-exp1.licdn.com/dms/image/C4E16AQG3LYFNEjGX6g/profile-displaybackgroundimage-shrink_350_1400/0/1623645717353?e=1639008000&v=beta&t=vknproLQrT1y6xKhSy3QocZmTws8Oe4IYHBbbfc_weg)
 
 I'm Xhefri, a multilingual software development student in final term of studies of the AIT's Bachelor's Degree in IT (mobile app development) from Melbourne, Australia.
@@ -10,7 +10,15 @@ Recently completed the engaging 8-course Google Data Analytics program, you can 
 
 Currently working on a exciting data analysis case study. :)
 
-## Skills: Excel / R / SQL / Data Visualisation / Data Cleaning / Critical Thinking
+Skills: 
+-----
+* Excel 
+* R  
+* SQL 
+* Data Visualisation
+* Data Cleaning
+* Critical Thinking
+-----
 
 - 👨‍💻 I’m currently working on Data analysis case study 
 - 👨‍💻 I’m currently learning: React Native / Flutter 
