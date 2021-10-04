@@ -10,10 +10,10 @@ Recently completed the engaging 8-course Google Data Analytics program, you can 
 
 Currently working on a exciting data analysis case study. :)
 
-Skills: Excel / R / SQL / Data Visualisation / Data Cleaning / Critical Thinking
+## Skills: Excel / R / SQL / Data Visualisation / Data Cleaning / Critical Thinking
 
-- 🔭 I’m currently working on Data analysis case study 
-- 🌱 I’m currently learning React Native / Flutter 
+- 👨‍💻 I’m currently working on Data analysis case study 
+- 👨‍💻 I’m currently learning React Native / Flutter 
 - 📫 How to reach me:  <a href="mailto:xhefri.bala@outlook.com">Send mail</a> 
 - 😄 Pronouns: Jeffrey 
 
