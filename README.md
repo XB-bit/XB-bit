@@ -7,6 +7,6 @@ Skills include Android, iOS application development, data visualisation, data cl
 
 Recently completed the engaging 8-course Google Data Analytics program, you can check my professional certificate [here](https://www.credly.com/badges/ad583e80-bd6c-4ea7-b1e9-32833e7c32ce/public_url).
 
-Currently working on a exciting data analysis case study.
+Currently working on a exciting data analysis case study. :)
 
 
