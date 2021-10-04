@@ -15,7 +15,7 @@ Currently working on a exciting data analysis case study. :)
 - 👨‍💻 I’m currently working on Data analysis case study 
 - 👨‍💻 I’m currently learning: React Native / Flutter 
 - 📫 How to reach me:  <a href="mailto:xhefri.bala@outlook.com">Send mail</a> 
-- 😄 Pronouns: Jeffrey 
+- 😄 Pronouns: Jeffrey (XH=J)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/XB-bit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/xhefri-bala-801871174/)  
