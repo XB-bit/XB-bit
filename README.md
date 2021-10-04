@@ -32,7 +32,7 @@ Skills:
   
 
 
-![Xhefri's GitHub stats](https://github-readme-stats.vercel.app/api?username=XB-bit&show_icons=true&theme=prussian&border_color:#ADD8E6)
+![Xhefri's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhefribala&show_icons=true&theme=prussian&border_color:#ADD8E6)
 
 
 
