@@ -23,7 +23,7 @@ Skills:
 - 👨‍💻 I’m currently working on an exciting data analysis case study 
 - 👨‍💻 I’m currently learning: React Native 
 - 📫 How to reach me:  <a href="mailto:xhefri.bala@outlook.com">Send mail</a> 
-- 😄 Pronouns: Jeffrey 
+- 😄 Pronounced: Jeffrey 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xhefribala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/xhefri-bala-801871174/)  
