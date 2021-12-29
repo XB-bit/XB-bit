@@ -19,7 +19,7 @@ Skills:
 * Presentation skills
 -----
 
-- 👨‍💻 I’m currently working on an exciting data analysis case study 
+- 👨‍💻 I’m currently working as a Graduate System Analyst
 - 👨‍💻 I’m currently learning: React Native 
 - 📫 How to reach me:  <a href="mailto:xhefri.bala@outlook.com">Send mail</a> 
 - 😄 Pronounced: Jeffrey 
