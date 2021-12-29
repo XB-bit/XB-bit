@@ -1,5 +1,5 @@
 ## Xhefri
-### Aspiring Data Analyst
+### Graduate System Analyst
 ![Aspiring Data Analyst](https://media-exp1.licdn.com/dms/image/C4E16AQG3LYFNEjGX6g/profile-displaybackgroundimage-shrink_350_1400/0/1623645717353?e=1639008000&v=beta&t=vknproLQrT1y6xKhSy3QocZmTws8Oe4IYHBbbfc_weg)
 
 I'm Xhefri, a multilingual software development graduate in IT specialised in mobile app development (AIT's Bachelor's Degree - Melbourne, Australia).
